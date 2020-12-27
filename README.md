@@ -1,6 +1,6 @@
 # opencv-superresolution
 * introduction
-  * [gpu](#behnoud)
+  * [gpu](#bgpu)
   * memory
 * tabels of contents
 # introduction
