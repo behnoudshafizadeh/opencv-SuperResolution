@@ -1,6 +1,6 @@
 # opencv-superresolution
 * introduction
-  * [gpu](#agpu)
+  * [gpu](#gpu)
   * memory
 * tabels of contents
 # introduction
