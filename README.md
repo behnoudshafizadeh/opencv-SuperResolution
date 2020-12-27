@@ -4,3 +4,4 @@
   * memory
 * tabels of contents
 # introduction
+# gpu
