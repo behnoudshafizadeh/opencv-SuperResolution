@@ -56,7 +56,5 @@ print("[INFO] bicubic interpolation took {:.6f} seconds".format(
 
 # show the original input image, bicubic interpolation image, and
 # super resolution deep learning output
-cv2.imshow("Original", image)
-cv2.imshow("Bicubic", bicubic)
-cv2.imshow("Super Resolution", upscaled)
-cv2.waitKey(0)
+cv2.imwrite("resize.png",bicubic)
+cv2.imwrite("supres.png",upscaled)
