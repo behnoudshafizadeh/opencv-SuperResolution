@@ -2,10 +2,10 @@
 >* [introduction](#what is SuperResolution?)
 >* installation
 >* [Usage](#Usage)
->* your google drive
->* our results
->* Contributing
->* License
+>* [your google drive](#your google drive)
+>* [our results](#our results)
+>* [Contributing](#Contributing)
+>* [License](#License)
 
 ## Table of contents
 * [General info](#general-info)
