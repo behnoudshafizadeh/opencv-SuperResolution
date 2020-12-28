@@ -34,9 +34,9 @@ $ python super_res_image.py --model models/EDSR_x4.pb --image examples/test.png
 
 >and you see,the super res image has better quality thab resized image.
 
->      | test.png    | resized.png| superres.png |
-       | ----------- | -------- | ---- | ----- |
-       | sequences   | 22       | 11   | 33    |
+| test.png    | resized.png| superres.png |
+| ----------- | -------- | ---- | ----- |
+| sequences   | 22       | 11   | 33    |
        
 
 ## Contributing
