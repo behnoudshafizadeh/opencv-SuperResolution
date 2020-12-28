@@ -1,4 +1,4 @@
-## SuperResolution Using DNN module in OpenCV and Colab
+# SuperResolution Using DNN module in OpenCV and Colab
 >* [introduction](#what is SuperResolution?)
 >* installation
 >* [Usage](#Usage)
