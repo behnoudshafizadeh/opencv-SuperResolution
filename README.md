@@ -1,5 +1,5 @@
 # SuperResolution Using DNN module in OpenCV and Colab
->* [what is SuperResolution?](#what-is-SuperResolution?)
+>* [about SuperResolution?](#what-is-SuperResolution?)
 >* [installation](#Installation)
 >* [Usage](#Usage)
 >* [your google drive](#your-google-drive)
