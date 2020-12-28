@@ -36,7 +36,8 @@ $ python super_res_image.py --model models/EDSR_x4.pb --image examples/test.png
 
 | test.png    | resized.png| superres.png |
 | ----------- | -----------| -------------|
-|             | ![resize](https://user-images.githubusercontent.com/53394692/103211709-301d3880-491e-11eb-99b7-85a9ce300e7b.png) | ![supres](https://user-images.githubusercontent.com/53394692/103211713-314e6580-491e-11eb-9fc3-0b63c2542a67.png)             |
+| ![test](https://user-images.githubusercontent.com/53394692/103220886-9a41d780-4936-11eb-8bd1-21d601f85a5d.png)
+            | ![resize](https://user-images.githubusercontent.com/53394692/103211709-301d3880-491e-11eb-99b7-85a9ce300e7b.png) | ![supres](https://user-images.githubusercontent.com/53394692/103211713-314e6580-491e-11eb-9fc3-0b63c2542a67.png)             |
        
 
 ## Contributing
