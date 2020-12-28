@@ -30,7 +30,7 @@ after instruction that you run it in colab ,you see the results in google drive 
 ![resize](https://user-images.githubusercontent.com/53394692/103211709-301d3880-491e-11eb-99b7-85a9ce300e7b.png)
 2)superres image:
 ![supres](https://user-images.githubusercontent.com/53394692/103211713-314e6580-491e-11eb-9fc3-0b63c2542a67.png)
-
+and you see,the super res image has better quality thab resized image.
 
 ## Contributing
 if you face with problems,please contact me by email ==> `behnud.shafizadeh@gmail.com` or my teammate ==> `npourhadi1998@gmail.com`
