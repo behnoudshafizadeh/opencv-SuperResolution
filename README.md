@@ -32,7 +32,7 @@ $ python super_res_image.py --model models/EDSR_x4.pb --image examples/test.png
 
 >>2)superres image ==>![supres](https://user-images.githubusercontent.com/53394692/103211713-314e6580-491e-11eb-9fc3-0b63c2542a67.png)
 
->and you see,the super res image has better quality thab resized image.
+>and you see,the super res image has better quality thab resized image.as a finall result,we see:
 
 | test.png    | resized.png| superres.png |
 | ----------- | -----------| -------------|
