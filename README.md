@@ -12,9 +12,8 @@ $ behnoud
 ![resize](https://user-images.githubusercontent.com/53394692/103181319-290e1000-48b5-11eb-9adb-5e8858969e79.png)
 `shafizadeh`
 ## Usage
-using `.pb` files in `models` files,and the images are in `examples` folder
+using `.pb` files in `models` files,and the images are in `examples` folder ,for example:
 ```
-EX:
 $ python super_res_image.py --model models/EDSR_x4.pb --image examples/adrian.png
 --model : The path to the input OpenCV super resolution model
 --image : The path to the input image that we want to apply super resolution to
