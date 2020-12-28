@@ -8,7 +8,7 @@
 * License
 
 ## what is  SuperResolution?
-Super resolution encompases a set of algorithms and techniques used to enhance, increase, and upsample the resolution of an input image. More simply, take an input image and increase the width and height of the image with minimal (and ideally zero) degradation in quality.
+Super resolution encompases a set of algorithms and techniques used to enhance, increase, and upsample the resolution of an input image. More simply, take an input image and increase the width and height of the image with minimal (and ideally zero) degradation in quality.my purpose is increasing the quality of small license-plates for detecting them better than when we dont use superresolution technique in images.
 
 ## Installation
 for using SuperResolution module in opencv first see the [following link](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f) and after doing the instructions in it,you will download file that is named `cv2.cpython-36m-x86_64-linux-gnu.so` and you put it in your  `directory` in google drive.
