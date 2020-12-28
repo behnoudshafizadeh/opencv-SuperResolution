@@ -1,5 +1,5 @@
 # SuperResolution Using DNN module in OpenCV and Colab
->* [what-is-SuperResolution?](#what-is-SuperResolution?)
+>* [what is SuperResolution?](#what-is-SuperResolution?)
 >* [installation](#Installation)
 >* [Usage](#Usage)
 >* [your google drive](#your-google-drive)
@@ -17,7 +17,7 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## what-is-SuperResolution?
+## what is SuperResolution?
 >Super resolution encompases a set of algorithms and techniques used to enhance, increase, and upsample the resolution of an input image. More simply, take an input image and increase the width and height of the image with minimal (and ideally zero) degradation in quality.my purpose is increasing the quality of small license-plates for detecting them better than when we dont use superresolution technique in images.
 
 ## Installation
