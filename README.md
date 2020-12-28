@@ -16,6 +16,7 @@ $ behnoud
 for using SuperResolution module in opencv first see the [following link](https://towardsdatascience.com/how-to-use-opencv-with-gpu-on-colab-25594379945f) and after doing the instructions in it,you will download file that is named `cv2.cpython-36m-x86_64-linux-gnu.so` and you put it in your  `directory` in google drive.
 
 ## your google drive
+![Capture1](https://user-images.githubusercontent.com/53394692/103211182-bcc6f700-491c-11eb-8203-961c03a19330.PNG)
 
 
 ## Usage
