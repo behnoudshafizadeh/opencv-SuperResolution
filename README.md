@@ -14,7 +14,7 @@ $ behnoud
 ## Usage
 using `.pb` files in `models` files,and the images are in `examples` folder ,for example:
 ```
-$ python super_res_image.py --model models/EDSR_x4.pb --image examples/adrian.png
+$ python super_res_image.py --model models/EDSR_x4.pb --image examples/test.png
 --model : The path to the input OpenCV super resolution model
 --image : The path to the input image that we want to apply super resolution to
 ```
