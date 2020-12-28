@@ -2,7 +2,7 @@
 >* [what-is-SuperResolution?](#what-is-SuperResolution?)
 >* [installation](#Installation)
 >* [Usage](#Usage)
->* [your google drive](#behnoud)
+>* [your google drive](#your google drive)
 >* [our results](#our results)
 >* [Contributing](#Contributing)
 >* [License](#License)
