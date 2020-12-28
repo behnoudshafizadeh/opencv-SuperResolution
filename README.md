@@ -1,4 +1,4 @@
-# SuperResolution Using DNN module in OpenCV 
+# SuperResolution Using DNN module in OpenCV and Colab
 * introduction
   * [behnoud](#gpu)
   * memory
