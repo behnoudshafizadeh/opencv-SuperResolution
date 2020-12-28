@@ -26,6 +26,11 @@ $ python super_res_image.py --model models/EDSR_x4.pb --image examples/test.png
 ![Capture1](https://user-images.githubusercontent.com/53394692/103211182-bcc6f700-491c-11eb-8203-961c03a19330.PNG)
 ## our results
 after instruction that you run it in colab ,you see the results in google drive as 2 `.png` file `supres` and `resize` :
+1)resized iamge:
+![resize](https://user-images.githubusercontent.com/53394692/103211709-301d3880-491e-11eb-99b7-85a9ce300e7b.png)
+2)superres image:
+![supres](https://user-images.githubusercontent.com/53394692/103211713-314e6580-491e-11eb-9fc3-0b63c2542a67.png)
+
 
 ## Contributing
 if you face with problems,please contact me by email ==> `behnud.shafizadeh@gmail.com` or my teammate ==> `npourhadi1998@gmail.com`
