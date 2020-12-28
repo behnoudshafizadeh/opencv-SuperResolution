@@ -7,15 +7,7 @@
 >* [Contributing](#Contributing)
 >* [License](#License)
 
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+
 
 ## about SuperResolution
 >Super resolution encompases a set of algorithms and techniques used to enhance, increase, and upsample the resolution of an input image. More simply, take an input image and increase the width and height of the image with minimal (and ideally zero) degradation in quality.my purpose is increasing the quality of small license-plates for detecting them better than when we dont use superresolution technique in images.
