@@ -6,7 +6,7 @@
 * our results
 * Contributing
 * License
----
+
 ## what is  SuperResolution?
 Super resolution encompases a set of algorithms and techniques used to enhance, increase, and upsample the resolution of an input image. More simply, take an input image and increase the width and height of the image with minimal (and ideally zero) degradation in quality.my purpose is increasing the quality of small license-plates for detecting them better than when we dont use superresolution technique in images.
 
@@ -24,8 +24,10 @@ $ python super_res_image.py --model models/EDSR_x4.pb --image examples/test.png
 ![Capture1](https://user-images.githubusercontent.com/53394692/103211182-bcc6f700-491c-11eb-8203-961c03a19330.PNG)
 ## our results
 after instruction that you run it in colab ,you see the results in google drive as 2 `.png` file `supres` and `resize` :
+
 1)resized iamge:
 ![resize](https://user-images.githubusercontent.com/53394692/103211709-301d3880-491e-11eb-99b7-85a9ce300e7b.png)
+
 2)superres image:
 ![supres](https://user-images.githubusercontent.com/53394692/103211713-314e6580-491e-11eb-9fc3-0b63c2542a67.png)
 and you see,the super res image has better quality thab resized image.
